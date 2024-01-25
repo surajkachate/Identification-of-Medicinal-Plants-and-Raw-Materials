@@ -1,7 +1,7 @@
 
 # Identification of Different Medicinal Plants/Raw materials through Image Processing Using Machine Learning Algorithms
 
-Brief description of the project.
+Developed an innovative solution utilizing image processing and machine learning algorithms to accurately identify medicinal plants/raw materials, addressing issues of misidentification, adulteration, and resource strain in Ayurvedic Pharmaceutics.
 
 ## Getting Started
 
@@ -19,7 +19,7 @@ Make sure you have the following installed on your machine:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Identification-of-Medicinal-Plants-and-Raw-materials/your-repository.git
+   git clone https://github.com/your-username/Identification-of-Medicinal-Plants-and-Raw-materials.git
    ```
 
    Replace `your-username` and `your-repository` with your GitHub username and the name of your repository.
