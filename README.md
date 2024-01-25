@@ -1,7 +1,10 @@
 
 # Identification of Different Medicinal Plants/Raw materials through Image Processing Using Machine Learning Algorithms
 
-Developed an innovative solution utilizing image processing and machine learning algorithms to accurately identify medicinal plants/raw materials, addressing issues of misidentification, adulteration, and resource strain in Ayurvedic Pharmaceutics.
+Traditional healthcare, rooted in practices like Ayurveda, faces challenges in identifying diverse medicinal plants. This study assesses cutting-edge algorithms, including YOLOv8, for real-time plant identification. Leveraging advanced image processing and machine learning, the research aims to enhance accuracy, addressing challenges in Ayurvedic Pharmaceutics. Specifically, the paper explores YOLOv8's potential as a robust tool for identifying medicinal plants and raw materials. The comparative analysis provides insights into its efficacy, emphasizing the intersection of traditional knowledge and technology for improved healthcare practices.
+
+![Screenshot (8)](https://github.com/surajkachate/Identification-of-Medicinal-Plants-and-Raw-materials/assets/89270012/830a9cf7-c97f-428c-93eb-499ad591b82b)
+
 
 ## Getting Started
 
