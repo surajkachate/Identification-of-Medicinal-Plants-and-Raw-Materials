@@ -1,4 +1,4 @@
-```markdown
+
 # Identification of Different Medicinal Plants/Raw materials through Image Processing Using Machine Learning Algorithms
 
 Brief description of the project.
